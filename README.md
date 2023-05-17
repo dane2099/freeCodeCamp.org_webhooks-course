@@ -9,5 +9,6 @@ This repository contains detailed notes and code for the Understanding Webhooks 
 * [📚 Notes](notes.md)
 * [🎮 Learn more for free using a video game](https://twilio.com/quest?utm_source=gh-link&utm_medium=referral&utm_campaign=webhooks-course)
 
+Justin's Notes on the Course (https://docs.google.com/document/d/1xrtRnFaozpa1zgqgzyosvpawqxl-nOJ2CV3gV4rEZtQ/edit)
 
 [@craigsdennis](https://twitter.com/craigsdennis)
